@@ -196,17 +196,17 @@ export default function Home() {
               <li>
                 <h3>About</h3>
                 <ul>
-                    <a href='https://jeanmazouni.com/' target={'_blank'} rel={'noreferrer'}>
+                    <a href='https://devshriyans.netlify.app' target={'_blank'} rel={'noreferrer'}>
                       <li>
                         The developer
                       </li>
                     </a>
-                    <a href='https://github.com/J0SUKE/Budget' target={'_blank'} rel={'noreferrer'}>
+                    <a href='https://github.com/CoderShriyans/Budgeter' target={'_blank'} rel={'noreferrer'}>
                       <li>
                         The project
                       </li>
                     </a>
-                    <a href='https://blog.jeanmazouni.com/blog' target={'_blank'} rel={'noreferrer'}>
+                    <a href='' aria-disabled>
                       <li>
                         My Blog
                       </li>
@@ -216,19 +216,19 @@ export default function Home() {
               <li>
                 <h3>Social medias</h3>
                 <ul className={styles.medias}>
-                    <a href='https://twitter.com/Jean_mazouni' target={'_blank'} rel={'noreferrer'}>
+                    <a href='https://Youtube.com/@TechnologyCoder' target={'_blank'} rel={'noreferrer'}>
                       <li>
-                        <img src="/images/icons/twitter.svg" alt="" />
-                        <p>Twitter</p>
+                        <img src="/images/icons/youtube.svg" alt="" />
+                        <p>Youtube</p>
                       </li>
                     </a>
-                    <a href='https://www.linkedin.com/in/jean-mazouni-214803242/' target={'_blank'} rel={'noreferrer'}>
+                    <a href='https://www.linkedin.com/in/shriyans-pranay-741323269/' target={'_blank'} rel={'noreferrer'}>
                       <li>
                         <img src="/images/icons/linkedin.svg" alt="" />
                         <p>Linkedin</p>
                       </li>
                     </a>
-                    <a href='https://github.com/J0SUKE' target={'_blank'} rel={'noreferrer'}>
+                    <a href='https://github.com/CoderShriyans' target={'_blank'} rel={'noreferrer'}>
                       <li>
                         <img src="/images/icons/github.svg" alt="" />
                         <p>Github</p>
@@ -238,7 +238,7 @@ export default function Home() {
               </li>
             </ul>
         </div>
-        <p>© Budget 2022. Jean Mazouni all rights reserved</p> 
+        <p>© Budget 2022. Shriyans Pranay all rights reserved</p> 
       </footer>
     </>    
   )
